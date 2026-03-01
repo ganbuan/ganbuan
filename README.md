@@ -1,4 +1,11 @@
-## Hi there 👋
+## Welcome, friend!
+
+I am Gan, a recent shifter to the world of software development. Some fun facts about me:
++ I'm somewhat well-versed with capital markets, and I dabble with stock trading.
++ I love learning new languages, and I'm currently into Spanish (¿Qué tal?) and Japanese (猫が好きで).
++ I'm making apps that my baby boy can hopefully use when he grows up.
++ Best way to reach me is through my [LinkedIn](https://www.linkedin.com/in/ganbuan/).
++ Currently working on StIRS (Similar to IBD's Relative Strength) Scanner API tool. Stay tuned!
 
 <!--
 **ganbuan/ganbuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
